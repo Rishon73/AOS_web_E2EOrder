@@ -5,3 +5,4 @@
 * Data table
 * Parameters
 * Object defined with regular expressions
+* Multiple browsers
