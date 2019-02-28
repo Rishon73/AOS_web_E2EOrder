@@ -7,7 +7,7 @@
 * Object defined with regular expressions
 * Multiple browsers
 
-#### UFT references the shared object repository with an absolute link. You will need to update the repository after cloning this one:
+#### UFT references the shared object repository with an absolute path. You'll need to update the repository:
 * In UFT go to Resources > Associate Repositories...
 * Remove the existing repository
 * Add a new one (point it to the AOS_web_OR.tsr file in this project)
